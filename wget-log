@@ -1,0 +1,6 @@
+--2021-04-26 21:55:04--  https://interbazaar.net/test?name=dasd
+Resolving interbazaar.net (interbazaar.net)... 104.21.17.86, 172.67.175.99, 2606:4700:3035::ac43:af63, ...
+Connecting to interbazaar.net (interbazaar.net)|104.21.17.86|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2021-04-26 21:55:05 ERROR 404: Not Found.
+
